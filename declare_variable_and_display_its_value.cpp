@@ -24,7 +24,8 @@ using namespace std;
 
 int main()
 {
-    string nomUtilisateur("Albert Einstein");
+    // string nomUtilisateur("Albert Einstein");
+    string prenom("Albert"), nom("Einstein");
     
     return 0;
 }
