@@ -17,7 +17,7 @@ int main()
     return 0;
 }
 */
-
+/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -27,5 +27,17 @@ int main()
     // string nomUtilisateur("Albert Einstein");
     string prenom("Albert"), nom("Einstein");
     
+    return 0;
+}
+*/
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int ageUtilisateur(16);
+    cout << "Votre age est : ";
+    cout << ageUtilisateur;
     return 0;
 }
