@@ -30,7 +30,7 @@ int main()
     return 0;
 }
 */
-
+/*
 #include <iostream>
 using namespace std;
 
@@ -42,6 +42,21 @@ int main()
     // cout << ageUtilisateur;
 
     cout << "Votre age est : " << ageUtilisateur << endl;
+
+    return 0;
+}
+*/
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+    int qiUtilisateur(150);
+    string nomUtilisateur("Albert Einstein");
+    
+    cout << "Vous vous appelez " << nomUtilisateur << " et votre QI vaut " << qiUtilisateur << endl;
     
     return 0;
 }
