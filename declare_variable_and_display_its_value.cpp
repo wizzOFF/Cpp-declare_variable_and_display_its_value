@@ -37,7 +37,11 @@ using namespace std;
 int main()
 {
     int ageUtilisateur(16);
-    cout << "Votre age est : ";
-    cout << ageUtilisateur;
+
+    // cout << "Votre age est : ";
+    // cout << ageUtilisateur;
+
+    cout << "Votre age est : " << ageUtilisateur << endl;
+    
     return 0;
 }
