@@ -1,4 +1,4 @@
-
+/*
 #include <iostream>
 using namespace std;
 
@@ -13,6 +13,18 @@ int main()
     bool estMonAmi(true);    //Cet utilisateur est-il mon ami ?
 
     char lettre('a');
+
+    return 0;
+}
+*/
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+    string nomUtilisateur("Albert Einstein");
     
     return 0;
 }
